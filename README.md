@@ -7,7 +7,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Socials
 
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=61588010357646">
