@@ -55,7 +55,7 @@ My long-term goal is to build immersive and technically solid software, with a p
 
 - 🎓 Building and documenting software projects as part of my university studies
 - 🌐 Developing an individual web application
-- 🏢 Learning software development in a large enterprise environment through a university project with Telekom
+- 🏢 Learning software development in a large enterprise environment through a university project with Deutsche Telekom IT Solutions
 - 🎮 Developing my bachelor's thesis project — a 3D game built with Unity
 
 ---
