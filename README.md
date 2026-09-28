@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Ferenc</h1>
-<h3 align="center">BSc Computer Science Student | Aspiring Game Developer 🎮</h3>
+<h3 align="center">BSc Computer Science Student | Aspiring Software Developer | Game Development Enthusiast 🎮</h3>
 
 <p align="center">
   University of Debrecen • Hungary 🇭🇺
@@ -32,12 +32,12 @@
 ## 🚀 About Me
 
 - 🎓 BSc Computer Science student at the **University of Debrecen**
-- 🎮 Aspiring **Game Developer**
+- 💻 Aspiring **Software Developer** with a strong interest in game development
 - 🧠 Passionate about problem solving and system-level thinking
-- ⚙️ Interested in game engines, graphics, backend logic and performance
-- 📚 Currently focused mainly on university projects (and surviving them 😄)
+- ⚙️ Interested in software architecture, game engines, graphics, backend logic and performance
+- 📚 Currently focused on university projects and building my developer portfolio
 
-My long-term goal is to build immersive, scalable and technically solid games — not just to make them work, but to understand *how and why* they work.
+My long-term goal is to build immersive and technically solid software, with a particular focus on game development and interactive applications. I enjoy understanding not only how things work, but also *why* they work.
 
 ---
 
@@ -45,32 +45,27 @@ My long-term goal is to build immersive, scalable and technically solid games �
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,python,java,js,html,css,unity,unreal,mysql" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,unity,oracle" />
 
-</p>
-
-<p align="center">
-Databases: Oracle • MySQL
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-- University software projects
-- Strengthening algorithms & data structures
-- Exploring game development fundamentals
-- Learning how game engines work under the hood
+- 🎓 Building and documenting software projects as part of my university studies
+- 🌐 Developing an individual web application
+- 🏢 Learning software development in a large enterprise environment through a university project with Telekom
+- 🎮 Developing my bachelor's thesis project — a 3D game built with Unity
 
 ---
 
 ## 📈 Future Direction
 
-Game development, real-time systems, performance optimization and large-scale interactive applications.
+Game development, gameplay systems, software architecture, real-time systems and performance optimization.
 
 ---
 
 <p align="center">
   <i>"Code is the tool. Logic is the weapon."</i>
 </p>
-
