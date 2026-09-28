@@ -41,13 +41,22 @@ My long-term goal is to build immersive and technically solid software, with a p
 
 ---
 
-## 🛠️ Languages & Technologies
+## 🛠️  Programming Languages & Technologies
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css,unity,oracle" />
 
 </p>
+
+---
+
+## 🌍 Languages
+
+- 🇭🇺 **Hungarian** — Native
+- 🇬🇧 **English** — C1
+- 🇩🇪 **German** — Learning
+- 🇯🇵 **Japanese** — Learning
 
 ---
 
